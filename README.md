@@ -1,0 +1,1 @@
+## Projeto simples com JavaScript com um semáforo com ações, para ligar cada uma das cores e a opção automático
